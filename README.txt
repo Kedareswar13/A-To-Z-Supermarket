@@ -1,1 +1,1 @@
-This project represents the working of a terminal based supermarket billing system and the name of the supermarket is A-to-Z Supermarket
+This project represents the working of a terminal based supermarket billing system and the name of the supermarket is A-to-Z Supermarket.In this project there are two different taks for a user and an administrator can be performed easily in a wide scale.This project helped me in learning the concepts of file handling,linked list and data management in cpp language.
